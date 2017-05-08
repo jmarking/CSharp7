@@ -8,6 +8,6 @@ namespace CSharp7.NewFeatures
 {
     public class ExpressionBodiedMembers
     {
-        
+        // Test github change.
     }
 }
